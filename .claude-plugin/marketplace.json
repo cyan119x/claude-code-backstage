@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-backstage",
+  "owner": {
+    "name": "cyan119x",
+    "url": "https://github.com/cyan119x"
+  },
+  "description": "Backstage, a Claude Code mod that shows the subagents and background tasks of a session.",
+  "plugins": [
+    {
+      "name": "backstage",
+      "source": "./",
+      "description": "A compact line above the prompt and a pane for the subagents and background tasks of a session, with animated pixel mascots."
+    }
+  ]
+}

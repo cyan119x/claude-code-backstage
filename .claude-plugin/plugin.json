@@ -1,0 +1,14 @@
+{
+  "name": "backstage",
+  "version": "1.0.1",
+  "description": "A compact line above the prompt and a Backstage pane for the subagents and background tasks of the session: an animated pixel mascot for each subagent, a small pixel screen for each background shell or monitor, what each is doing and for how long.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "cyan119x",
+    "url": "https://github.com/cyan119x"
+  },
+  "homepage": "https://github.com/cyan119x/claude-code-backstage",
+  "repository": "https://github.com/cyan119x/claude-code-backstage",
+  "keywords": ["claude-code", "mod", "subagents", "background-tasks", "pixel-art"],
+  "license": "MIT"
+}
